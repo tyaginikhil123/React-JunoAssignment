@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.prof {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 25px;
+  margin-top: 50p;
+}
+.profile-details p {
+  margin: 0;
+  padding: 0;
+}
+
+.prof img {
+  width: 38px;
+  height: 38px;
+}

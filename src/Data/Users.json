@@ -1,0 +1,154 @@
+{
+    "pending":[
+        {
+            "name":"Sam Altan",
+            "email":"samaltan123@gmail.com",
+            "riskLevel":"medium",
+            "trigerreason":"IPChange",
+            "queued":"4 days",
+            "date":"12 Oct,2023",
+            "previouslyReviewed":{
+               "value":"yes",
+               "date":"23August,2023"
+            }
+        },
+        {
+            "name":"Sameer Choubey",
+            "email":"sameerchoubey123@gmail.com",
+            "riskLevel":"high",
+            "trigerreason":"FIFO",
+            "queued":"4 days",
+            "date":"12 Oct,2023",
+            "previouslyReviewed":{
+               "value":"No",
+               "date":null
+            }
+        },
+        {
+            "name":"Adarsh Panikar",
+            "email":"adarsh@onjuno.com",
+            "riskLevel":"low",
+            "trigerreason":"IPChange",
+            "queued":"5 days",
+            "date":"12 Oct,2023",
+            "previouslyReviewed":{
+               "value":"No",
+               "date":null
+            }
+        },
+        {
+            "name":"Pratik Shetty",
+            "email":"pratik@gmail.com",
+            "riskLevel":"high",
+            "trigerreason":"FIFO",
+            "queued":"5 days",
+            "date":"12 Oct,2023",
+            "previouslyReviewed":{
+               "value":"Yes",
+               "date":"12Sep,2023"
+            }
+        },
+        {
+            "name":"Elon Musk",
+            "email":"elon@twitterceo.com",
+            "riskLevel":"low",
+            "trigerreason":"FIFO",
+            "queued":"5 days",
+            "date":"12 Oct,2023",
+            "previouslyReviewed":{
+               "value":"Yes",
+               "date":"12Sep,2023"
+            }
+        },
+        {
+            "name":"Trina Kundu",
+            "email":"trian@onjuno.com",
+            "riskLevel":"low",
+            "trigerreason":"FIFO",
+            "queued":"5 days",
+            "date":"12 Oct,2023",
+            "previouslyReviewed":{
+               "value":"Yes",
+               "date":"12Sep,2023"
+            }
+        }
+        
+    ],
+    "completed":[
+        {
+            "name":"Sam Altan",
+            "email":"samaltan123@gmail.com",
+            "riskLevel":"medium",
+            "actionReason":"Flagged",
+            "timeToClose":"14 days",
+            "date":"12 Oct,2023",
+            "actionTaken":{
+               "name":"Neil",
+               "email":"neil@onjuno.com"
+            }
+        },
+        {
+            "name":"Sameer Choubey",
+            "email":"sameerchoubey123@gmail.com",
+            "riskLevel":"high",
+            "actionReason":"Closed",
+            "timeToClose":"14 days",
+            "date":"12 Oct,2023",
+            "actionTaken":{
+               "name":"Pratik",
+               "email":"pratik@onjuno.com"
+            }
+        },
+        {
+            "name":"Adarsh Panikar",
+            "email":"adarsh@onjuno.com",
+            "riskLevel":"low",
+            "actionReason":"Cleared",
+            "timeToClose":"15 days",
+            "date":"12 Oct,2023",
+            "actionTaken":{
+               "name":"Prasthan",
+               "email":"prasthan@onjuno.com"
+            }
+        },
+        {
+            "name":"Pratik Shetty",
+            "email":"pratik@gmail.com",
+            "riskLevel":"high",
+            "actionReason":"SOI requsted",
+            "timeToClose":"15 days",
+            "date":"12 Oct,2023",
+            "actionTaken":{
+                "name":"Rasleen Kaur",
+                "email":"rasleen@onjuno.com"
+            }
+        },
+        {
+            "name":"Elon Musk",
+            "email":"elon@twitterceo.com",
+            "riskLevel":"low",
+            "actionReason":"Flagged",
+            "timeToClose":"15 days",
+            "date":"12 Oct,2023",
+            "actionTaken":{
+                "name":"Pratik Shetty",
+                "email":"pratik@onjuno.com"
+            }
+        },
+        {
+            "name":"Trina Kundu",
+            "email":"trian@onjuno.com",
+            "riskLevel":"low",
+            "actionReason":"Closed",
+            "timeToClose":"15 days",
+            "date":"12 Oct,2023",
+            "actionTaken":{
+                "name":"Varun Deshpande",
+                "email":"varun@onjuno.com"
+            }
+        }
+        
+    ]
+
+}
+    
